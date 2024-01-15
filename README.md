@@ -31,7 +31,5 @@ Hey there! I'm Fabio Quaino, a software enthusiast based in Argentina.
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/fabioquaino/)
-- [Docker Hub](https://hub.docker.com/u/quaino)
 - [Personal Website](https://fabioquaino.dev)
-
-Feel free to peek into my coding escapades, and let's chat about tech, code, or anything under the digital sun!
+- [Docker Hub](https://hub.docker.com/u/quaino)
