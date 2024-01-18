@@ -1,12 +1,11 @@
 # About Me
 
-Hey there! I'm Fabio Quaino, a software enthusiast based in Argentina.
+Hey there! I'm Fabio Quaino.
 
-## Background
-
-- 🎓 Graduated from UTN (National Technological University) with a degree in Software Engineering.
-- 📊 Specialized in ETL and data analysis, love delving into the world of data.
-- 🌱 Always driven to learn and stay updated with the latest technologies.
+I'm a Software Systems Engineer specialized in handling information by creating and managing ETLs, microservices, dashboards, and data models. My expertise also extends to application integration, connecting different systems together. 
+I'm also keen on machine learning and creating algorithms to make the most of information.
+Currently, my focus is on data engineering because of my interests and knowledge. 
+I'm always looking to expand my skills in this area, that is why I’m eager to learn new tools and methodologies. My goal is to stay updated on the latest tech trends for top-notch data solutions.
 
 ## Skills
 
@@ -22,7 +21,7 @@ Hey there! I'm Fabio Quaino, a software enthusiast based in Argentina.
 - **Business Process Automation**: Skilled in Bonitasoft for process automation.
 - **Project Management**: Utilizing the Atlassian suite for collaborative project management.
 
-## Recent Projects
+## Some Recent Projects
 
 - 🗃️ [Deploy Talend-ESB Runtime with Traefik](https://github.com/fabioquaino/talend-esb-deploy): Configuration and deployment setup for Talend ESB 8 services with Traefik as a reverse proxy. Talend ESB is an open-source enterprise service bus platform.
 - 🤖 [Telegram Chat with Sentiment Analysis](https://github.com/fabioquaino/project-telegram-chat): Integrates a Telegram bot with sentiment analysis using the telebot library and Jupyter Notebook. Messages are processed and sentiment results are stored in a MySQL database.
@@ -31,5 +30,5 @@ Hey there! I'm Fabio Quaino, a software enthusiast based in Argentina.
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/fabioquaino/)
-- [Personal Website](https://fabioquaino.dev)
+- [Personal Website](https://fabioquaino.com)
 - [Docker Hub](https://hub.docker.com/u/quaino)
