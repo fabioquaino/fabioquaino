@@ -2,10 +2,9 @@
 
 Hey there! I'm Fabio Quaino.
 
-I'm a Software Systems Engineer specialized in handling information by creating and managing ETLs, microservices, dashboards, and data models. My expertise also extends to application integration, connecting different systems together. 
-I'm also keen on machine learning and creating algorithms to make the most of information.
-Currently, my focus is on data engineering and data analysis because of my interests and knowledge. 
-I'm always looking to expand my skills in this area, that is why I’m eager to learn new tools and methodologies. My goal is to stay updated on the latest tech trends for top-notch data solutions.
+I'm a Software Systems Engineer specialized in handling information by creating and managing ETLs, microservices, dashboards, and data models. My expertise also extends to application integration, connecting different systems together. I'm also keen on machine learning and creating algorithms to make the most of information.
+
+Currently, my focus is on data engineering and data analysis because of my interests and knowledge. I'm always looking to expand my skills in this area, that is why I’m eager to learn new tools and methodologies. My goal is to stay updated on the latest tech trends for top-notch data solutions.
 
 ## Skills
 In my data engineering journey, I've handled:
@@ -31,4 +30,3 @@ In my data engineering journey, I've handled:
 
 - [LinkedIn](https://www.linkedin.com/in/fabioquaino/)
 - [My Website](https://fabioquaino.com)
-- [Email](fabiomjq@gmail.com)
