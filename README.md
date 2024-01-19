@@ -7,7 +7,7 @@ I'm a Software Systems Engineer specialized in handling information by creating 
 Currently, my focus is on data engineering and data analysis because of my interests and knowledge. I'm always looking to expand my skills in this area, that is why I’m eager to learn new tools and methodologies. My goal is to stay updated on the latest tech trends for top-notch data solutions.
 
 ## Skills
-In my data engineering journey, I gained experience in
+In my data engineering journey, I gained experience in:
 - **ETL:** Proficient in Talend DI and Talend ESB for seamless data integration.
 - **Workflow Automation:** Experienced with Apache Airflow for orchestrating complex workflows.
 - **Database Management:** Working with MySQL and Oracle DB for efficient data storage.
