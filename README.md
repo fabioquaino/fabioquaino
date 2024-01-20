@@ -18,7 +18,7 @@ In my data engineering journey, I gained experience in:
 - **Python Development:** Building applications with basic Machine Learning algorithms.
 - **Web Development:** Building dynamic user interfaces with React.
 - **Business Process Automation:** Skilled in Bonitasoft for efficient process automation.
-- **Project Management:** Applying Agile Scrum framework with the Atlassian suite, including Jira and Bitbucket.
+- **Project Management:** Applying Agile Scrum framework with the Atlassian suite, including Jira and Bitbucket, for collaborative project management.
 
 ## Some Recent Projects
 
