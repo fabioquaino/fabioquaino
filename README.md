@@ -4,21 +4,21 @@ Hey there! I'm Fabio Quaino.
 
 I'm a Software Systems Engineer specialized in handling information by creating and managing ETLs, microservices, dashboards, and data models. My expertise also extends to application integration, connecting different systems together. I'm also keen on machine learning and creating algorithms to make the most of information.
 
-Currently, my focus is on data engineering and data analysis because of my interests and knowledge. I'm always looking to expand my skills in this area, that is why I’m eager to learn new tools and methodologies. My goal is to stay updated on the latest tech trends for top-notch data solutions.
+Currently, my focus is on data engineering because of my interests and knowledge. I'm always looking to expand my skills in this area, that is why I'm eager to learn new tools and methodologies. My goal is to stay updated on the latest tech trends for topnotch data solutions.
 
 ## Skills
 In my data engineering journey, I gained experience in:
 - **ETL:** Proficient in Talend DI and Talend ESB for seamless data integration.
-- **Workflow Automation:** Experienced with Apache Airflow for orchestrating complex workflows.
+- **Workflow Automation:** Experienced with Apache Airflow for orchestrating workflows.
 - **Database Management:** Working with MySQL and Oracle DB for efficient data storage.
-- **IoT:** Implementing solutions with NodeRED for efficient IoT applications.
-- **Machine Learning:** Employing Python for ML applications, exploring data science opportunities.
-- **Cloud Computing:** Utilizing AWS for scalable and secure cloud solutions.
+- **IoT:** Implementing solutions with Node-RED for efficient IoT applications.
 - **Data Visualization:** Creating insightful dashboards with PowerBI.
-- **DevOps Tools:** Proficient in Linux, Git, and Docker for streamlined development and deployment.
+- **Version Control:** Skilled in using Git for streamlined development.
+- **Deployment:** Utilizing Linux and Docker for efficient application deployment.
+- **Python Development:** Building applications with basic Machine Learning algorithms.
 - **Web Development:** Building dynamic user interfaces with React.
 - **Business Process Automation:** Skilled in Bonitasoft for efficient process automation.
-- **Project Management:** Utilizing the Atlassian suite for collaborative project management.
+- **Project Management:** Applying Agile Scrum framework with the Atlassian suite, including Jira and Bitbucket.
 
 ## Some Recent Projects
 
@@ -28,5 +28,6 @@ In my data engineering journey, I gained experience in:
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/fabioquaino/)
-- [My Website](https://fabioquaino.com)
+- LinkedIn: https://www.linkedin.com/in/fabioquaino/
+- My Website: https://fabioquaino.com
+- Email: fabiomjq@gmail.com
